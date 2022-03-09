@@ -13,4 +13,4 @@
 
 ### History
 - 🎓 The University of Hong Kong - Bachelor of Business Administration (Information System) (2016.09~2022.06)
-- 💼 Moohan Information Co. Ltd Junior Full-stack Developer Intern (2021.06~2021.11)
+- 💼 Moohan Information Co. Ltd Junior Full-stack Developer Intern (2021.06~2022.01)
