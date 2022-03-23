@@ -8,7 +8,7 @@
 <img align='right' height="200px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dyi919">
 
 - 🌏 Born in South Korea, studied in China and Hong Kong
-- 🌱 Learning full-stack web development & blockchain
+- 🌱 Learning full-stack web development
 
 ### History
 - 🎓 The University of Hong Kong - Bachelor of Business Administration (Information System) (2016.09~2022.06)
